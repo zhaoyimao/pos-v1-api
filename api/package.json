@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "mock":"json-server datbase.json --watch --port 8081"
+    }
+}

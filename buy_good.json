@@ -1,0 +1,29 @@
+{ 
+    "good1":{
+        "id": "ITEM000000",
+        "name": "可口可乐",
+        "unit": "瓶",
+        "price": 3.00,
+        "barcodes":"买二送一",
+        "count":3
+        
+    },
+    "good3": {
+        "id": "ITEM000002",
+        "name": "苹果",
+        "unit": "斤",
+        "price": 5.50,
+        "barcodes":"无",
+        "count":2
+    },
+    "good6":{
+        "id": "ITEM000006",
+        "name": "羽毛球",
+        "unit": "个",
+        "price": 1.00,
+        "barcodes":"买二送一",
+        "count":5
+    }   
+
+
+}
